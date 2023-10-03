@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "97135d7bc49908c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0373f627341803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f28b27bafe600d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d73a3159dd320ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c65cb2038401013e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git branch and merge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a26c5d18abf564c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git temporary commits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5764d686e13d6867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de variáveis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f120e5bc4b8f9c0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operadores aritméticos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16e0fefc14a75ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operadores de atribuição.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14702d4c9cf4c950",
+    "type": "split",
+    "children": [
+      {
+        "id": "400146d51380d1ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f00e1eaf69612a72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e9d404dedec1b34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#operadoresaritméticos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8859ad272c3cf47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "480ba9df6878a924",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccd105fee7017b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90116c5ca8e983a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operadores de atribuição.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9555bdd622d855b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operadores de atribuição.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85de963fc97d21e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef2f911ee4de3aaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operadores de atribuição.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "16e0fefc14a75ab8",
+  "lastOpenFiles": [
+    "Operadores aritméticos.md",
+    "Operadores de atribuição.md",
+    "Tipos de variáveis.md",
+    "Operadores.md",
+    "Git temporary commits.md",
+    "Git branch and merge.md",
+    "Git versioning.md",
+    "Git stage and snapshot.md",
+    "Git Setup and init.md",
+    "Git setup.md"
+  ]
+}
