@@ -16,75 +16,55 @@
             }
           },
           {
-            "id": "5d73a3159dd320ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c65cb2038401013e",
+            "id": "2fa15caabc431cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git branch and merge.md",
+                "file": "Operadores relacionais.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a26c5d18abf564c",
+            "id": "4e18adb5248ab3ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git temporary commits.md",
+                "file": "Operadores Lógicos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5764d686e13d6867",
+            "id": "9fee074466a60f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de variáveis.md",
+                "file": "Criando métodos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f120e5bc4b8f9c0a",
+            "id": "0136f5b06febcb79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operadores aritméticos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16e0fefc14a75ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operadores de atribuição.md",
+                "file": "Tipos de retorno.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#operadoresaritméticos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operadores de atribuição.md",
+                "file": "Criando métodos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operadores de atribuição.md",
+                "file": "Criando métodos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operadores de atribuição.md"
+                "file": "Criando métodos.md"
               }
             }
           }
@@ -212,10 +191,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16e0fefc14a75ab8",
+  "active": "9fee074466a60f47",
   "lastOpenFiles": [
-    "Operadores aritméticos.md",
+    "Tipos de retorno.md",
+    "Criando métodos.md",
+    "Tipo de retorno.md",
+    "Modificadores de acesso.md",
+    "Operadores Lógicos.md",
+    "Operadores relacionais.md",
+    "Operadores ternários.md",
+    "Operadores Unários.md",
     "Operadores de atribuição.md",
+    "Operadores aritméticos.md",
     "Tipos de variáveis.md",
     "Operadores.md",
     "Git temporary commits.md",
