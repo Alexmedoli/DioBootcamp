@@ -29,27 +29,5 @@ public class contaBanco {
         System.out.println("Qual é seu saldo atual?");
         saldo = sc1.nextFloat();
 
-
-        try {
-            Connection conn = DriverManager.getConnection(DB_URL, USER, PASS);
-            Statement stmt = conn.createStatement();
-        
-            // Define an SQL INSERT statement
-            String insertSQL = "INSERT INTO your_table_name (numeroBanco, saldo, agencia, nomeCliente) VALUES " +
-                               "(" + numeroBanco + ", " + saldo + ", '" + agencia + "', '" + nomeCliente + "')";
-        
-            // Execute the SQL INSERT statement
-            int rowsAffected = stmt.executeUpdate(insertSQL);
-        
-            if (rowsAffected > 0) {
-                System.out.println("Data inserted successfully!");
-            } else {
-                System.out.println("Failed to insert data.");
-            }
-        
-            conn.close(); // Close the connection when done
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
     }   
 }
