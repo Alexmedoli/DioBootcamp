@@ -1,3 +1,4 @@
+package src;
 public class switchCase {
     public static void main(String[] args) {
         String sigla = "M"; 

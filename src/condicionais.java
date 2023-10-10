@@ -1,8 +1,8 @@
+package src;
 public class condicionais {
     public static void main(String[] args) {
         double saldo = 25.0;
         double valorSolicitado = 17.0;
-        boolean senhaCorreta;
         float nota = 6;
 
         if (valorSolicitado<saldo)
@@ -10,17 +10,11 @@ public class condicionais {
 
         System.out.println("o seu saldo é " + saldo);
 
-        //condicional composta
-        if (senhaCorreta = true){
-            if (valorSolicitado<saldo){
-                saldo = saldo - valorSolicitado;
-                System.out.println("o seu saldo é " + saldo);
-            }
-            else {System.out.println("fundos insuficientes");
-            }
-        }    
-        else{
-        System.out.println("Acesso negado");
+        if (valorSolicitado<saldo){
+            saldo = saldo - valorSolicitado;
+            System.out.println("o seu saldo é " + saldo);
+        }
+        else {System.out.println("fundos insuficientes");
         }
 
         if (nota>=7){
