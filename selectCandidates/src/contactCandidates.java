@@ -4,25 +4,13 @@ import java.util.concurrent.ThreadLocalRandom;
 public class contactCandidates {
     public static void main (String[] args){
         System.out.println("Processo seletivo");
-        double salarioBase = 2000;
         // String contatar = analiseCandidate(1900);
         //System.out.println(contatar);
 
         selectCandidates(2000);
     }
     
-    public static String analiseCandidate (double salarioPretendido, double salarioBase) {
-        String naFaixa = "Temos uma vaga para você!";
-        String foraFaixa = "Você aceitaria 2.000?";
 
-        String contatarCandidato = salarioBase >= salarioPretendido ? naFaixa : foraFaixa;
-        return contatarCandidato;
-
-    }
-
-    /**
-     * @param salarioBase
-     */
     static void selectCandidates(double salarioBase){
         String [] candidatos = {"Felipe", "Márcia", "Júlia", "Paulo", "Monica", "Fabrício", "Mirela", "Daniela", "José", "Mauro"};
         int candidatosSelec = 0;
